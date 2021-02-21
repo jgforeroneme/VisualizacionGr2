@@ -118,9 +118,9 @@
       <p>Si lo va a copiar no olvide referenciar.</p>
     <div class="w3-row w3-padding-28">
       <div class="w3-col m6 w3-large w3-margin-bottom">
-        <i class="fa fa-map-marker" style="width:30px"></i> Bogotá, Colombia<br>
-        <i class="fa fa-phone" style="width:30px"></i> Celular: +57 311 4513721<br>
-        <i class="fa fa-envelope" style="width:30px"> </i> Email: jforeron@ucentral.edu.co<br>
+        <i class="fa fa-map-marker" style="width:20px"></i> Bogotá, Colombia<br>
+        <i class="fa fa-phone" style="width:20px"></i> Celular: +57 311 4513721<br>
+        <i class="fa fa-envelope" style="width:20px"> </i> Email: jforeron@ucentral.edu.co<br>
        <p>Desarrollado por <a href="https://jgforeroneme.github.io/" target="_blank" class="w3-teal">Juan Forero</a></p>
     </div>
   </div>
