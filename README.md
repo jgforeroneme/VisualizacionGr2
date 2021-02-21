@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html LANG="ES">
 <title>Visualización de Datos Gr2</title>
 <meta charset="UTF-8">
@@ -124,4 +124,4 @@
        <p>Desarrollado por <a href="https://jgforeroneme.github.io/" target="_blank" class="w3-teal">Juan Forero</a></p>
     </div>
   </div>
-</footer>
+
