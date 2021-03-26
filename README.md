@@ -19,8 +19,6 @@
 </style>
 <body class="w3-content" style="max-width:100%">
 <header>
-	<H1 aling="center"><img src="Datos2.jpg"></H1>
-<header>
 <h1><img src="Datos2.jpg" /></h1>
 </header><!-- Menú --><nav id="mySidebar" class="w3-sidebar" style="z-index: 3; width: 300px; background-color: white; color: #2e2e97;"><br />
 <div class="w3-container">
@@ -56,7 +54,6 @@
 <div align="center"><a href="cuadernos/Intro_Multi2.ipynb"><img class="w3-round w3-margin-bottom" style="width: 60%;" src="https://github.com/jgforeroneme/VisualizacionGr2/blob/main/Python.png" alt="Random Name" /></a></div>
 </div>
 <div class="w3-third">
-
 </div>
 </div>
 </div>
@@ -72,6 +69,15 @@
 <p>Desarrollado por <a class="w3-teal" href="https://jgforeroneme.github.io/" target="_blank">Juan Forero</a></p>
 </div>
 </div>
+</div>
+</div>
+	
+	<div class="w3-container w3-padding-16 " style="max-width: 1000px;">
+<h2 class="w3-wide">OBJETIVOS DEL CURSO</h2>
+<div class="w3-panel w3-justify">
+<p>Este espacio se cre&oacute; con la finalidad de compartir los avances y las evidencias del curso Visualizaci&oacute;n de datos, liderado por el Profesor Miguel &Aacute;ngel Rippe.</p>
+<p>Nota del autor: Profesor Miguel, vea que si estoy haciendo las tareas!!!</p>
+<p>Nota del autor: Profesor Isaac, tome su c&oacute;digo y jugu&eacute; con el hasta que lo entend&iacute;</p>
 </div>
 </div>
 </footer></div>
