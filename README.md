@@ -57,6 +57,14 @@
 </div>
 </div>
 </div>
+<div class="w3-container w3-padding-16 " style="max-width: 1000px;">
+<h2 class="w3-wide">OBJETIVOS DEL CURSO</h2>
+<div class="w3-panel w3-justify">
+<p>Este espacio se cre&oacute; con la finalidad de compartir los avances y las evidencias del curso Visualizaci&oacute;n de datos, liderado por el Profesor Miguel &Aacute;ngel Rippe.</p>
+<p>Nota del autor: Profesor Miguel, vea que si estoy haciendo las tareas!!!</p>
+<p>Nota del autor: Profesor Isaac, tome su c&oacute;digo y jugu&eacute; con el hasta que lo entend&iacute;</p>
+</div>
+</div>
 <!-- Footer --><footer class="w3-container w3-padding-28 " style="background-color: #2e2e97; color: white;">
 <h2 class="w3-wide w3-center">CONTACTO</h2>
 <p class="w3-opacity w3-center"><em>&iquest;me necesita?</em></p>
@@ -69,15 +77,6 @@
 <p>Desarrollado por <a class="w3-teal" href="https://jgforeroneme.github.io/" target="_blank">Juan Forero</a></p>
 </div>
 </div>
-</div>
-</div>
-	
-	<div class="w3-container w3-padding-16 " style="max-width: 1000px;">
-<h2 class="w3-wide">OBJETIVOS DEL CURSO</h2>
-<div class="w3-panel w3-justify">
-<p>Este espacio se cre&oacute; con la finalidad de compartir los avances y las evidencias del curso Visualizaci&oacute;n de datos, liderado por el Profesor Miguel &Aacute;ngel Rippe.</p>
-<p>Nota del autor: Profesor Miguel, vea que si estoy haciendo las tareas!!!</p>
-<p>Nota del autor: Profesor Isaac, tome su c&oacute;digo y jugu&eacute; con el hasta que lo entend&iacute;</p>
 </div>
 </div>
 </footer></div>
