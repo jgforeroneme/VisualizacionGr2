@@ -44,14 +44,15 @@
 </div>
 <!-- Aca suba vainas --> <!-- Evidencias -->
 <div id="portfolio" class="w3-black">
-<div class="w3-row w3-padding-32">
-<div class="w3-third">
-<h3 style="text-align: center;">Datafolio en dash</h3>
-<div align="center"><a href="https://github.com/jgforeroneme/VisualizacionGr2/tree/main/Proyecto"><img class="w3-round w3-margin-bottom" style="width: 60%;" src="https://github.com/jgforeroneme/VisualizacionGr2/blob/main/PowerBi.png" alt="Random Name" /></a></div>
-</div>
+  <div class="w3-row w3-padding-32">
+    <div class="w3-third">
+      <h3 style="text-align: center;">Datafolio en dash</h3>
+      <div align="center"><a href="https://github.com/jgforeroneme/VisualizacionGr2/tree/main/Proyecto"><img          src="https://github.com/jgforeroneme/VisualizacionGr2/blob/main/Python.png" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%;"></a>
+        </div>
+      </div>
 <div class="w3-third">
 <h3 style="text-align: center;">Datafolio en PowerBi</h3>
-<div align="center"><a href="https://github.com/jgforeroneme/VisualizacionGr2/blob/main/Proyecto/DataFolio.pbix"><img class="w3-round w3-margin-bottom" style="width: 60%;" src="https://github.com/jgforeroneme/VisualizacionGr2/blob/main/Python.png" alt="Random Name" /></a></div>
+<div align="center"><a href="https://github.com/jgforeroneme/VisualizacionGr2/blob/main/Proyecto/DataFolio.pbix"><img class="w3-round w3-margin-bottom" style="width: 60%;" src="https://github.com/jgforeroneme/VisualizacionGr2/blob/main/PowerBi.png" alt="Random Name" /></a></div>
 </div>
 <div class="w3-third">
 </div>
