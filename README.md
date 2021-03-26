@@ -50,10 +50,11 @@
       <div align="center"><a href="https://github.com/jgforeroneme/VisualizacionGr2/tree/main/Proyecto"><img          src="https://github.com/jgforeroneme/VisualizacionGr2/blob/main/Python.png" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%;"></a>
         </div>
       </div>
-<div class="w3-third">
-<h3 style="text-align: center;">Datafolio en PowerBi</h3>
-<div align="center"><a href="https://github.com/jgforeroneme/VisualizacionGr2/blob/main/Proyecto/DataFolio.pbix"><img class="w3-round w3-margin-bottom" style="width: 60%;" src="https://github.com/jgforeroneme/VisualizacionGr2/blob/main/PowerBi.png" alt="Random Name" /></a></div>
-</div>
+  <div class="w3-third">
+    <h3 style="text-align: center;">Datafolio en PowerBi</h3>
+    <div align="center"><a href="https://github.com/jgforeroneme/VisualizacionGr2/blob/main/Proyecto/DataFolio.pbix"><img src="https://github.com/jgforeroneme/VisualizacionGr2/blob/main/PowerBi.png" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%;"></a>
+        </div>
+      </div>
 <div class="w3-third">
 </div>
 </div>
