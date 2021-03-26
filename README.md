@@ -51,7 +51,7 @@
       <div class="w3-section  w3-padding-16">
         <i class="w3-large">Juan Guillermo Forero Neme</i>
         <br>
-        <a href="https://jgforeroneme.github.io/VisualizacionGr2/"><i>www.jgforeroneme.github.io/</i></a>
+        <a href="https://jgforeroneme.github.io/VisualizacionGr2/"><i>https://jgforeroneme.github.io/VisualizacionGr2//</i></a>
       </div>
     </div>
   </header>
