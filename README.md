@@ -84,9 +84,9 @@
 <div class="w3-container w3-padding-16 " style="max-width: 1000px;">
 <h2 class="w3-wide">OBJETIVOS DEL CURSO</h2>
 <div class="w3-panel w3-justify">
-<p>Este espacio se creó; con la finalidad de compartir los avances y las evidencias del curso Visualización de datos, liderado por el Profesor Miguel Ángel Rippe.</p>
-<p>Nota del autor: Profesor Miguel, vea que si estoy haciendo las tareas!!!</p>
-<p>Nota del autor: Profesor Isaac, tome su código y jugué con el hasta que lo entendí</p>
+<p>Para esta ocasión se presenta el datafolio solicitado para la clase, se trabajó el tema ‘Environment: Density & urbanization' y los subtemas 'Urban population' - 'SP.URB.TOTL' y 'Rural population' - 'SP.RUR.TOTL'.</p>
+<p>Se realizó el modelamiento de datos con jupyter notebook y la presentación gráfica con el paquete dash plotly, adicional a eso se adjunta una visualización en Power Bi toda vez que tengo más habilidad con esta herramienta que en procesos que implican código.</p>
+<p>En espera de sus comentarios</p>
 </div>
 </div>
 <!-- Footer -->
