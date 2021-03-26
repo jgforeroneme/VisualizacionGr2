@@ -51,7 +51,7 @@
       <div class="w3-section  w3-padding-16">
         <i class="w3-large">Juan Guillermo Forero Neme</i>
         <br>
-        <a href="https://https://jgforeroneme.github.io/"><i>www.jgforeroneme.github.io/</i></a>
+        <a href="https://https://jgforeroneme.github.io/VisualizacionGr2"><i>www.jgforeroneme.github.io/</i></a>
       </div>
     </div>
   </header>
@@ -72,7 +72,7 @@
     <div class="w3-row w3-padding-32">
       <div class="w3-third">
         <h3 style="text-align:center;">Introducción a la estadistica descriptiva multivariada</h3>
-        <div align="center"><a href="https://github.com/madcentral/metodosestadisticos/blob/master/cuadernos/1_IntroduccionMultivariado.ipynb"><img src="https://raw.githubusercontent.com/madcentral/metodosestadisticos/master/images/imagen1.png" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%;"></a>
+        <div align="center"><a href="https://github.com/madcentral/metodosestadisticos/blob/master/cuadernos/1_IntroduccionMultivariado.ipynb"><img src="https://github.com/jgforeroneme/VisualizacionGr2/blob/main/Proyecto/imagen.jpg" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%;"></a>
         </div>
       </div>
       <div class="w3-third">
