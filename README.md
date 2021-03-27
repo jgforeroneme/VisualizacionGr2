@@ -103,6 +103,6 @@
         <i class="fa fa-map-marker" style="width:20px"></i> Bogotá, Colombia<br>
         <i class="fa fa-phone" style="width:20px"></i> Celular: +57 311 4513721<br>
         <i class="fa fa-envelope" style="width:20px"> </i> Email: jforeron@ucentral.edu.co<br>
-       <p>Desarrollado por <a href="https://jgforeroneme.github.io/" target="_blank" class="w3-teal">Juan Forero</a></p>
+       <p>Desarrollado por <a href="https://jgforeroneme.github.io/VisualizacionGr2/" target="_blank" class="w3-teal">Juan Forero</a></p>
     </div>
   </div>
