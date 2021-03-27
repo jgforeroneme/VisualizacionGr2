@@ -69,7 +69,7 @@
   <div class="w3-row w3-padding-32">
     <div class="w3-third">
       <h3 style="text-align: center;">Datafolio en dash</h3>
-      <div align="center"><a href="https://github.com/jgforeroneme/VisualizacionGr2/tree/main/Proyecto"><img src="python.jpg" 
+      <div align="center"><a href="https://github.com/jgforeroneme/VisualizacionGr2/tree/main/Proyecto"><img src="python.jfif" 
 	class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%;"></a>
         </div>
       </div>
