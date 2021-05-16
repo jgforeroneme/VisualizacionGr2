@@ -70,18 +70,18 @@
     <div class="w3-third">
       <h3 style="text-align: center;">Datafolio en dash</h3>
       <div align="center"><a href="https://github.com/jgforeroneme/VisualizacionGr2/tree/main/Proyecto"><img src="python.jfif" 
-	class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%;"></a>
+	class="w3-round w3-margin-bottom" alt="Random Name" style="width:30%;"></a>
         </div>
       </div>
   <div class="w3-third">
     <h3 style="text-align: center;">Datafolio en PowerBi</h3>
-    <div align="center"><a href="https://github.com/jgforeroneme/VisualizacionGr2/blob/main/Proyecto/DataFolio.pbix"><img src="PowerBi.jpg" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%;"></a>
+    <div align="center"><a href="https://github.com/jgforeroneme/VisualizacionGr2/blob/main/Proyecto/DataFolio.pbix"><img src="PowerBi.jpg" class="w3-round w3-margin-bottom" alt="Random Name" style="width:30%;"></a>
 	    <div id="portfolio" class="w3-black">
   <div class="w3-row w3-padding-32">
     <div class="w3-third">
-      <h3 style="text-align: center;">Dashboard SECO</h3>
+      <h3 style="text-align: center;">Dashboard SECOP</h3>
       <div align="center"><a href="https://github.com/jgforeroneme/VisualizacionGr2/tree/main/Proyecto_2"><img src="plotly.png" 
-	class="w3-round w3-margin-bottom" alt="Dashboard SECOP" style="width:60%;"></a>
+	class="w3-round w3-margin-bottom" alt="Dashboard SECOP" style="width:30%;"></a>
         </div>
       </div>
         </div>
