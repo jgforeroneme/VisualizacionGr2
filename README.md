@@ -51,7 +51,7 @@
         <i class="w3-large">Juan Guillermo Forero Neme</i>
 	<i class="w3-large">Miryam Leguizamon Lopez</i>
         <br>
-        <a href="https://jgforeroneme.github.io/VisualizacionGr2/"><i>https://jgforeroneme.github.io/VisualizacionGr2/</i></a>
+        
       </div>
     </div>
   </header>
