@@ -51,18 +51,14 @@
         <i class="w3-large">Juan Guillermo Forero Neme</i>
 	<i class="w3-large">Miryam Leguizamon Lopez</i>
         <br>
-        
-      </div>
-    </div>
+
   </header>
   
    <div class="w3-container w3-padding-16 " style="max-width:1000px">
     <h2 class="w3-wide">OBJETIVOS DEL CURSO</h2>
     <div class="w3-panel w3-justify">
-      <p>Este espacio se creó con la finalidad de compartir los avances y las evidencias del curso Visualización de datos, liderado por los profesores Isaac Zainbea y Miguel Ángel Rippe.</p>
-	 
-      </div>
-    </div>
+      <p>Este espacio se creó con la finalidad de compartir los avances y las evidencias del curso Visualización de datos, liderado por los profesores Isaac Zainea y Miguel Ángel Rippe.</p>
+
 	
 <!-- Aca suba vainas -->
 <div id="portfolio" class="w3-black">
