@@ -49,6 +49,7 @@
       <b class="w3-large">Segundo Semestre</b>
       <div class="w3-section  w3-padding-16">
         <i class="w3-large">Juan Guillermo Forero Neme</i>
+	<i class="w3-large">Miryam Leguizamon Lopez</i>
         <br>
         <a href="https://jgforeroneme.github.io/VisualizacionGr2/"><i>https://jgforeroneme.github.io/VisualizacionGr2/</i></a>
       </div>
@@ -58,9 +59,8 @@
    <div class="w3-container w3-padding-16 " style="max-width:1000px">
     <h2 class="w3-wide">OBJETIVOS DEL CURSO</h2>
     <div class="w3-panel w3-justify">
-      <p>Este espacio se creó con la finalidad de compartir los avances y las evidencias del curso Visualización de datos, liderado por el Profesor Miguel Ángel Rippe.</p>
-	  <p>Nota del autor: Profesor Miguel, vea que si estoy haciendo las tareas!!!</p>
-	  <p>Nota del autor: Profesor Isaac, tome su código y jugué con el hasta que lo entendí</p>
+      <p>Este espacio se creó con la finalidad de compartir los avances y las evidencias del curso Visualización de datos, liderado por los profesores Isaac Zainbea y Miguel Ángel Rippe.</p>
+	 
       </div>
     </div>
 	
